@@ -1,0 +1,17 @@
+
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+
+# Vscode
+.vscode/
+
+*.png
+*.pdf
+*.jpg
+*.html
+saved_models/
+coursework_02/Task01_BrainTumour_2D/
